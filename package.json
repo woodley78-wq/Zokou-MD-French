@@ -25,7 +25,7 @@
     "@faouzkk/tiktok-dl": "^1.0.1",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "npm:@faouzkk/baileys@3.0.0",
+    "@whiskeysockets/baileys": "npm:@faouzkk/baileys@4.0.0",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide_scrapper_fixed": "^1.0.2",
     "axios": "^1.7.9",
